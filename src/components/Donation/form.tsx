@@ -4,7 +4,7 @@ export const DonationForm = () => {
 
   return (
     <form
-      className="text-center my-8 mx-auto w-[90%] md:w-[30%] px-[3%] py-[5%]   rounded-lg  text-white bg-main"
+      className="text-center my-8 mx-auto w-[90%] md:w-[30%] px-[3%] pt-[5%]   rounded-lg  text-white bg-main"
       onSubmit={() => {
         alert("submitting form ");
       }}
