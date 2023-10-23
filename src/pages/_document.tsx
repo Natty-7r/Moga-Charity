@@ -1,10 +1,10 @@
-import { Html,  Main, NextScript,Head } from "next/document";
+import { Html, Main, NextScript, Head } from "next/document";
 
 export default function Document() {
   return (
-    <Html lang='en'>
+    <Html lang="en">
       <Head>
-        <title>Et-Mentor</title>
+        <title>Moga Charity</title>
       </Head>
       <body>
         <Main />
