@@ -9,7 +9,7 @@ const CreateMentor = () => {
   };
 
   return (
-    <div className="donate_page flex flex-col sm:flex-row bg-white bg-red-400 my-0  h-auto ">
+    <div className="donate_page flex flex-col sm:flex-row sm:justify-between bg-white bg-red-400 my-0  h-auto ">
       <DonationForm />
       <DonationDescription />
     </div>
