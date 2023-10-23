@@ -1,0 +1,37 @@
+{
+  "name": "moga_charity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.16",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.18.1",
+    "@types/cookie": "^0.5.1",
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.33",
+    "@types/react-dom": "18.0.11",
+    "autoprefixer": "10.4.14",
+    "cookie": "^0.5.0",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.3.0",
+    "next": "^13.5.6",
+    "next-sanity": "^5.5.8",
+    "postcss": "^8.4.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.9.0",
+    "react-player": "^2.13.0",
+    "sanity": "^3.18.1",
+    "sass": "^1.63.4",
+    "styled-components": "5.2",
+    "tailwindcss": "3.3.1",
+    "typescript": "5.0.3"
+  }
+}
